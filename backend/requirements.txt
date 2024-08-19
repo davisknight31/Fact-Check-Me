@@ -2,3 +2,5 @@ flask
 vosk
 soundfile
 yt-dlp
+pydub
+ffmpeg
